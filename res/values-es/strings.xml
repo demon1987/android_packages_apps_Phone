@@ -691,4 +691,23 @@
     </string-array>
 
     <!-- CYANOGENMOD ADDITIONS END -->
+    
+    <string name="vibration_title">Vibración del teléfono</string>
+    <string name="vibration_title_dialog_title">Seleccionar...</string>
+    <string name="calllog_after_call">Mostrar registro</string>
+    <string name="calllog_after_call_summary">Mostrar el registro de la llamada al colgar.</string>
+    <string name="rejected_as_missed">Llamadas rechazadas como perdidas</string>
+    <string name="rejected_as_missed_sum">Marcar llamadas rechadas como \'perdidas\' en lugar de \'entrante\' en el registro de llamadas.</string>
+    <string name="ring_delay_title">Retraso del timbre</string>
+    <string name="ring_delay_summary">Seleccione retrazo del timbre.</string>
+    <string-array name="ring_delay_entries">
+        <item>Desactivado</item>
+        <item>3 Segundos</item>
+        <item>6 Segundos</item>
+        <item>9 Segundos</item>
+    </string-array>
+    <string name="exit_to_home_screen_title">Salir a última actividad al finalizar llamada</string>
+    <string name="exit_to_home_screen_summary">Salir a última actividad al finalizar llamada en lugar del registro de llamada.</string>
+    <string name="landscape_mode_title">Modo apaisado</string>
+    <string name="landscape_mode_summary">Habilita modo apaisado (si sensor esta activado)</string>
 </resources>
